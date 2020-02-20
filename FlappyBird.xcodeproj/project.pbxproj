@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		370CB76823FC3D1F00FEB6B6 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 370CB76723FC3D1F00FEB6B6 /* GameScene.swift */; };
 		37FAEB5D23FBC4A30016296E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37FAEB5C23FBC4A30016296E /* AppDelegate.swift */; };
 		37FAEB5F23FBC4A30016296E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37FAEB5E23FBC4A30016296E /* SceneDelegate.swift */; };
 		37FAEB6123FBC4A30016296E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37FAEB6023FBC4A30016296E /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		370CB76723FC3D1F00FEB6B6 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		37FAEB5923FBC4A30016296E /* FlappyBird.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlappyBird.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		37FAEB5C23FBC4A30016296E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		37FAEB5E23FBC4A30016296E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				37FAEB5C23FBC4A30016296E /* AppDelegate.swift */,
 				37FAEB5E23FBC4A30016296E /* SceneDelegate.swift */,
 				37FAEB6023FBC4A30016296E /* ViewController.swift */,
+				370CB76723FC3D1F00FEB6B6 /* GameScene.swift */,
 				37FAEB6223FBC4A30016296E /* Main.storyboard */,
 				37FAEB6523FBC4A70016296E /* Assets.xcassets */,
 				37FAEB6723FBC4A70016296E /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				37FAEB6123FBC4A30016296E /* ViewController.swift in Sources */,
 				37FAEB5D23FBC4A30016296E /* AppDelegate.swift in Sources */,
+				370CB76823FC3D1F00FEB6B6 /* GameScene.swift in Sources */,
 				37FAEB5F23FBC4A30016296E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
